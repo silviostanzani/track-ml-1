@@ -23,3 +23,5 @@ inferences can be done using script: inference.py that expects the following par
 ```
 python inference.py 1 if.csv ~/aux/model_top04_1.h5
 ```
+
+In order to generate input data for trainning the neural netowrk and for inference one can use pre-and-pos-processing.ipynb
